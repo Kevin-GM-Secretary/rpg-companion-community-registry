@@ -3237,5 +3237,21 @@
     "github_repo": "Kevin-GM-Secretary/Warlock-5e-sub-and-invocations",
     "repo_url": "https://Kevin-GM-Secretary.github.io/Warlock-5e-sub-and-invocations/",
     "has_system": false
+  },
+  {
+    "name": "Warlock-5e-Subclass-and-Invocations-sp3",
+    "description": "Spell-list that the warlock i've imported earlier didn't have",
+    "tags": [
+      "5e2024",
+      "spells"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Kevin-GM-Secretary/Warlock-5e-Subclass-and-Invocations-sp3",
+    "repo_url": "https://Kevin-GM-Secretary.github.io/Warlock-5e-Subclass-and-Invocations-sp3/",
+    "has_system": false
   }
 ]
